@@ -1,4 +1,4 @@
-namespace SoulverTools.MenuTool
+namespace SoulverTools.MenuTool.Data
 {
     public struct ExportResult
     {
