@@ -27,6 +27,8 @@
 
 Export Unity Tilemaps to PNG images.
 
+https://github.com/user-attachments/assets/67d5abbf-951f-4bd5-a5b1-0179d6201f33
+
 **Use cases:**
 - debugging
 - minimap generation
@@ -163,6 +165,7 @@ Contains predefined standard shapes for Gizmos generation.
 - Extensions
 - Attributes
 - Gizmos
+- 
 
 <!-- This content will not appear in the rendered Markdown -->
 
